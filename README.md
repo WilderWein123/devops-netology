@@ -1,3 +1,7 @@
+git занятие 2 задание 4 - подключение репозитория к Visual Studio Code
+
+<img src = "img/img_git02.jpg" width = 100%>
+
 # devops-netology
 Andrey Seregin
 
